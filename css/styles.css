@@ -34,7 +34,7 @@
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 200%;
   display: block;
-  text-align: center;
+  text-align: left;
 }
 
 .aboutme2 {
@@ -84,4 +84,23 @@
   float: left;
   height: auto;
   width: 33.33%;
+}
+
+.midbox {
+  width: 45%;
+  height: 400px;
+  border: solid black;
+  float: right;
+  border-width: 1px;
+  
+  background-color: rgb(0, 174, 255);
+  
+  box-sizing: border-box;
+}
+
+.interestspics {
+  margin: auto;
+  height: 50%;
+  width: auto;
+  display: block;
 }
