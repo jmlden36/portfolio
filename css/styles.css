@@ -1,6 +1,6 @@
 .topbox {
   width: 45%;
-  height: 620px;
+  height: 640px;
   border: solid black;
   float: right;
   border-width: 1px;
@@ -12,7 +12,6 @@
 
 .toppicture {
   margin: auto;
-  height: auto;
   width: 75%;
   display: block;
 }
