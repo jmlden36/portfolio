@@ -1,6 +1,8 @@
 .topbox {
-  width: 100%;
+  width: 45%;
+  height: 620px;
   border: solid black;
+  float: right;
   border-width: 1px;
   padding-top: 35px;
   background-color: rgb(0, 174, 255);
@@ -10,13 +12,14 @@
 
 .toppicture {
   margin: auto;
-  height: 500px;
+  height: auto;
+  width: 75%;
   display: block;
 }
 
 .name {
   font-family: cursive;
-  font-size: 300%;
+  font-size: 75%;
   display: block;
   text-align: center;
 }
