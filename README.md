@@ -28,7 +28,7 @@ _Porfolio is a HTML webpage that displays my coding portfolio.  Portfolio is com
 ## Known Bugs
 
 * _There are no known issues with portfolio_
-* _If you have any issues or notice any bugs please email [jamesmattluker@gmail.com](jamesmattluker@gmail.com)._
+* _If you have any issues or notice any bugs please email [mailto:jamesmattluker@gmail.com](jamesmattluker@gmail.com)._
 
 ## License
 
