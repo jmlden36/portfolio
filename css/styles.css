@@ -1,6 +1,6 @@
 .topbox {
-  width: 45%;
-  height: 640px;
+  width: 500px;
+  height: auto;
   border: solid black;
   float: right;
   border-width: 1px;
@@ -13,7 +13,8 @@
 
 .toppicture {
   margin: auto;
-  height: 75%;
+  height: auto;
+  width: 75%;
   display: block;
 }
 
@@ -88,8 +89,8 @@
 }
 
 .midbox {
-  width: 30%;
-  height: 400px;
+  width: 200px;
+  height: auto;
   border: solid black;
   float: right;
   border-width: 1px;
@@ -101,7 +102,7 @@
 
 .interestspics {
   margin: auto;
-  height: 50%;
-  width: auto;
+  height: auto;
+  width: 100%;
   display: block;
 }
