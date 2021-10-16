@@ -23,7 +23,7 @@ _Porfolio is a HTML webpage that displays my coding portfolio.  Portfolio is com
 * _Find the portfolio project folder on your desktop and open it._
 * _Now open the index.html file that resides inside the portfolio project folder which will open the portfolio HTML webpage._
 * _Scroll through the page and enjoy the content.  Click on any link you would like to interact with._
-* _You can also access my portfolio by clicking on this [github pages link]() _ 
+* _You can also access my portfolio by clicking on this [github pages link](http://jmlden36.github.io/portfolio)_ 
 
 ## Known Bugs
 
