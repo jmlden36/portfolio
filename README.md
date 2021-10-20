@@ -32,6 +32,6 @@ _Porfolio is a HTML webpage that displays my coding portfolio.  Portfolio is com
 
 ## License
 
-_MIT_
+_[MIT](LICENSE.txt)_
 
 Copyright (c) _2021_ _James Matt Luker_
